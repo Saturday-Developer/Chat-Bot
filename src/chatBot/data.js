@@ -4,7 +4,7 @@ export const data = [
     answer: 'Hello',
   },
   {
-    question: 'Hello',
+    question: 'hello',
     answer: 'Hi',
   },
   {
@@ -12,7 +12,7 @@ export const data = [
     answer: 'Hello',
   },
   {
-    question: 'Hello bot',
+    question: 'hello bot',
     answer: 'Hi',
   },
   {
@@ -20,7 +20,7 @@ export const data = [
     answer: 'I am fine',
   },
   {
-    question: 'What is your age',
+    question: 'what is your age',
     answer: 'I was developed yesterday',
   },
   {
